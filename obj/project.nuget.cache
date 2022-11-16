@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBML1w887zf1KGc3Ru+eHsydcc2gkPsaVoC1WIRWnvp4ciPrn1fD7aJfdMlE5Xv4bMlXMg8qaZ0JJ63Em6thVg==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\BinarySearchTree\\BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

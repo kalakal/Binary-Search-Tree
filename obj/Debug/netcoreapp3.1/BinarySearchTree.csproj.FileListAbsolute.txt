@@ -1,0 +1,14 @@
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.AssemblyReference.cache
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+E:\bridgelab\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+E:\bridgelab\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
